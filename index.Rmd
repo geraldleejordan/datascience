@@ -3,11 +3,7 @@ title: Introduction
 author: Lee Jordan, MBA, MEd, MCouns
 date: 2020-05-20 13:54:00 +1200
 published: true
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
-    dev: 'svg'
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
