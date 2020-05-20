@@ -1,3 +1,1 @@
-include:
- - _site
- - .htaccess
+destination: public
